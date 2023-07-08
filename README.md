@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there!
+I'm a Team Lead of the Data Science Team with a passion for Computer Vision and MLOps. I have experience in R and Python. I'm currently learning/working on improving my MLOps skills.
 
-<!--
-**AlexandrByzov/AlexandrByzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Skills
 
-Here are some ideas to get you started:
+Programming Languages: R, Python. Frameworks/Libraries: PySpark, Scikit-Learn, PyTorch, TensorFlow, Tidymodels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Projects
+
+Here I will put a list of my pet projects
+
+📚 Education
+
+Master of computer science with a focus on computer vision
+
+📫 How to reach me
+
+Email: alexandr.byzov@hotmail.com
+Twitter: https://twitter.com/al_byzov
